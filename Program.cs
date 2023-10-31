@@ -46,6 +46,7 @@ namespace VRChatEmulator
 | |___| | | | | | |_| | | (_| | || (_) | |   
 |_____|_| |_| |_|\__,_|_|\__,_|\__\___/|_|   ");
             Console.WriteLine(" ");
+            // TODO: Change the path to your own 
             string path = @"G:\SteamLibrary\steamapps\common\VRChat\EasyAntiCheat\Settings.json";
             try
             {
