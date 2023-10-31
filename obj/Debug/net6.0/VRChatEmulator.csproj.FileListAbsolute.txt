@@ -1,0 +1,14 @@
+C:\Users\twisted\source\repos\VRChatEmulator\bin\Debug\net6.0\VRChatEmulator.exe
+C:\Users\twisted\source\repos\VRChatEmulator\bin\Debug\net6.0\VRChatEmulator.deps.json
+C:\Users\twisted\source\repos\VRChatEmulator\bin\Debug\net6.0\VRChatEmulator.runtimeconfig.json
+C:\Users\twisted\source\repos\VRChatEmulator\bin\Debug\net6.0\VRChatEmulator.dll
+C:\Users\twisted\source\repos\VRChatEmulator\bin\Debug\net6.0\VRChatEmulator.pdb
+C:\Users\twisted\source\repos\VRChatEmulator\obj\Debug\net6.0\VRChatEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twisted\source\repos\VRChatEmulator\obj\Debug\net6.0\VRChatEmulator.AssemblyInfoInputs.cache
+C:\Users\twisted\source\repos\VRChatEmulator\obj\Debug\net6.0\VRChatEmulator.AssemblyInfo.cs
+C:\Users\twisted\source\repos\VRChatEmulator\obj\Debug\net6.0\VRChatEmulator.csproj.CoreCompileInputs.cache
+C:\Users\twisted\source\repos\VRChatEmulator\obj\Debug\net6.0\VRChatEmulator.dll
+C:\Users\twisted\source\repos\VRChatEmulator\obj\Debug\net6.0\refint\VRChatEmulator.dll
+C:\Users\twisted\source\repos\VRChatEmulator\obj\Debug\net6.0\VRChatEmulator.pdb
+C:\Users\twisted\source\repos\VRChatEmulator\obj\Debug\net6.0\VRChatEmulator.genruntimeconfig.cache
+C:\Users\twisted\source\repos\VRChatEmulator\obj\Debug\net6.0\ref\VRChatEmulator.dll
