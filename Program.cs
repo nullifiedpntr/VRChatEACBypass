@@ -82,7 +82,7 @@ namespace VRChatEmulator
 
                         updateColor(ConsoleColor.Blue);
                         Console.WriteLine("{+] EAC Bypassed");
-                        continue;
+                        break;
                     }
                 }
 
